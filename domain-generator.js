@@ -1,14 +1,14 @@
 
-let pronoun = ['the','our'];
-let adj = ['great', 'big'];
-let noun = ['room','site'];
-let ext = ['.com','.org'];
+let pronouns = ['the','our'];
+let adjs = ['great', 'big'];
+let nouns = ['room','site'];
+let exts = ['.com','.org'];
 
-pronoun.forEach(ele1 => {
-    adj.forEach(ele2 => {
-        noun.forEach(ele3 => {
-            ext.forEach(ele4 => {
-                console.log(ele1 + ele2 + ele3 + ele4);
+pronouns.forEach(pronoun => {
+    adjs.forEach(adj => {
+        nouns.forEach(noun => {
+            exts.forEach(ext => {
+                console.log(pronoun + adj + noun + ext);
             });
          });
     });
