@@ -1,0 +1,18 @@
+Este es el resultado que arroja el código:
+
+thegreatroom.com
+thegreatroom.org
+thegreatsite.com
+thegreatsite.org
+thebigroom.com
+thebigroom.org
+thebigsite.com
+thebigsite.org
+ourgreatroom.com
+ourgreatroom.org
+ourgreatsite.com
+ourgreatsite.org
+ourbigroom.com
+ourbigroom.org
+ourbigsite.com
+ourbigsite.org
